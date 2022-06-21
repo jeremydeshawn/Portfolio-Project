@@ -1,0 +1,1 @@
+alert("Hello my name is Jeremy Hinton welcome to my portfolio.")
